@@ -1,4 +1,4 @@
-# matrimononial-site
+# This is a matrimonial site named Vivah-Patrika
 ## Project is built in PHP technology and MySQL database used
 
 #To import this project
